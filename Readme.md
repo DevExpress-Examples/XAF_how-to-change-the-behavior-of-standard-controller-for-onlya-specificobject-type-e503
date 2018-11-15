@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Model.DesignedDiffs.xafml](./CS/WinSolution.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/WinSolution.Module.Win/Model.DesignedDiffs.xafml))
+* [MyWinNewObjectViewController.cs](./CS/WinSolution.Module.Win/MyWinNewObjectViewController.cs) (VB: [MyWinNewObjectViewController.vb](./VB/WinSolution.Module.Win/MyWinNewObjectViewController.vb))
+<!-- default file list end -->
 # How to change the behavior of standard controller for only a specific object type
 
 
